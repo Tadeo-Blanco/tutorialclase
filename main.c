@@ -6,6 +6,7 @@ int main() {
 	int n;    // Variable para almacenar el tamaño deseado del arreglo
 	
 	printf("Bienvenido al programa de memoria dinamica en C.\n");
+	printf("hola soy el cambio");
 	printf("Ingrese el numero de elementos para el arreglo: ");
 	scanf("%d", &n); // Leemos el tamaño que el usuario desea
 	
